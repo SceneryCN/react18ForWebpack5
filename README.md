@@ -20,7 +20,7 @@ analy：``yarn run build:analy``
 7. Sass [ 推荐 ] 
 8. Less [ 不推荐 ]
 9. [useWorker][1]
-10. [ArcoDesign][2]
+10. [ArcoDesign][2] 已经删除 it has delete
 
 [1]:https://useworker.js.org/ "useWorker"
 [2]:https://arco.design/ "ArcoDesign"
